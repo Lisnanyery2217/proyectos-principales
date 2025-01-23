@@ -1,0 +1,25 @@
+h1{
+    text-align: center; 
+    border: 2px solid mediumpurple;
+    background-color: rgb(128, 89, 163);
+    margin-bottom: 20px;
+
+       color: rgb(0, 0, 0);/
+    }
+
+
+h2{
+    
+    background-color: rgb(160, 142, 211);
+    margin-bottom: 20px;
+    color: rgb(0, 0, 0);
+
+
+}
+
+p{
+    
+    background-color: rgb(245, 245, 245);
+
+    color: rgb(0, 0, 0);
+}
